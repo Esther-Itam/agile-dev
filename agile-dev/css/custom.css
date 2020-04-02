@@ -1,0 +1,36 @@
+
+/*début code Esther*/
+
+
+.section2{
+    background-color: rgb(168, 166, 166);
+    width:100%;
+    display:flex;
+    align-content: space-around;
+}
+
+
+
+
+.section2 img{
+   
+    height:500px;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+
+.p2{
+    padding-top: 100px;
+}
+
+.p3{
+    padding-top: 80px;
+}
+
+.p1{
+    margin-top:150px;
+    margin-left: 50px;
+    text-align: right;
+}
+
+/*fin code Esther*/
