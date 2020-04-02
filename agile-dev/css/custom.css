@@ -1,6 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
 /*début code Victoria*/
 
-#conteneur
+.benefice
 {
     display: flex;
     flex-direction: row;
@@ -11,32 +17,73 @@
 
 /*début code Esther*/
 
+nav ul{
+    margin-right: 60px;
+}
+
+nav li{
+    margin-left: 30px;
+}
+
+.section1 img{
+    height:500px;
+    margin-left: 500px;
+}
+
+.section1{
+    background-color: rgb(168, 166, 166);
+    width:100%;
+    display:flex;
+    align-items: stretch;
+    flex-direction:column;
+}
+
+
+.ptext{
+    text-align: center;
+    padding-left: 300px;
+    width:1000px;
+}
+
+.a :last-of-type{
+    margin-left: 60px;
+}
+
+
 .section2{
     background-color: rgb(168, 166, 166);
     width:100%;
     display:flex;
-    align-content: space-around;
+    flex-direction:row;
+    padding-top: 60px;
+
+  
 }
 
 .section2 img{
 
     height:500px;
     margin-left: 100px;
-    padding-top: 50px;
+    margin-top:50px;
+  
+}
+
+.twop{
+    display:flex;
+    align-items: stretch;
+    flex-direction:column;
+    padding-left: 200px;
+}
+
+.p1{
+    padding-top: 150px;
+    text-align:right;
+  
 }
 
 .p2{
     padding-top: 100px;
-}
 
-.p3{
-    padding-top: 80px;
-}
-
-.p1{
-    margin-top:150px;
-    margin-left: 50px;
-    text-align: right;
 }
 
 /*fin code Esther*/
