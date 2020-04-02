@@ -1,4 +1,5 @@
 
+
 /*début code Esther*/
 
 
@@ -9,11 +10,8 @@
     align-content: space-around;
 }
 
-
-
-
 .section2 img{
-   
+
     height:500px;
     margin-left: 100px;
     padding-top: 50px;
@@ -34,3 +32,13 @@
 }
 
 /*fin code Esther*/
+
+
+/*début code Antonin*/
+.size{
+  height: 200px;
+}
+.card {
+  padding: 10px;
+}
+/*fin code Antonin*/
