@@ -1,7 +1,15 @@
+/*début code Victoria*/
+
+#conteneur
+{
+    display: flex;
+    flex-direction: row;
+}
+
+/*fin code Victoria*/
 
 
 /*début code Esther*/
-
 
 .section2{
     background-color: rgb(168, 166, 166);
@@ -42,3 +50,4 @@
   padding: 10px;
 }
 /*fin code Antonin*/
+
