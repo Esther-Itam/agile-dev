@@ -1,3 +1,4 @@
+
 body{
     margin: 0;
     padding: 0;
@@ -6,12 +7,25 @@ body{
 
 /*début code Victoria*/
 
-.benefice
-{
-    display: flex;
-    flex-direction: row;
+ 
+  .div-benefice{   
+    background-color: #DDD;
+    width:100%;
+    display:flex;
+    align-content: space-around; 
 }
 
+.picture-left{
+        float: left;
+        width : 10%;
+}
+
+.paragraph-right {
+    vertical-align:middle;
+    margin : 0% 10% 20% 40%;
+    margin-top : 50px;
+    margin-left : 20%;
+}
 /*fin code Victoria*/
 
 
